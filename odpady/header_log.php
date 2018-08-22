@@ -23,7 +23,7 @@
 					<a href="../index.php" class="nav-item nav-link">Strona główna</a>
 					<a href="../oleje/magazyn.php" class="nav-item nav-link">Magazyn olejów</a>
 					<a href="magazyn.php" class="nav-item nav-link active">Magazyn odpadów</a>
-					<a href="../logowanie/login.php" class="nav-item nav-link">Logowanie</a>
+					<a href="../logowanie/logout.php" class="nav-item nav-link">Wyloguj</a>
 				</div>
 			</div>
 		</div>
