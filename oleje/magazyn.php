@@ -17,9 +17,9 @@
 		<div class="m-auto text-center pb-5">
 			<?php  //Odebranie zmiennych z sesji w pliku zaloguj.php
 				echo "<h5>Zalogowany jako ->  ".$_SESSION['user']." ".$_SESSION['nazwisko']."</h5>";
+				echo "<br>Każdy rekord można edytować lub usunć.<br>Po usunięciu wszystkich rekordów mozna dodawać je ponownie.";
 			?>
 			<br>
-			<a href="../logowanie/logout.php"><button class="btn btn-secondary" type="submit">Wyloguj się</button></a><br/>
 		</div>
 		
 		<div class="row">
