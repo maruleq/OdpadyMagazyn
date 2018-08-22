@@ -30,7 +30,7 @@
 	</nav>
 	
 	<body>
-		<div class="jumbotron jumbotron-fluid bg-primary text-white text-center pt-5 pb-5">
+		<div class="jumbotron jumbotron-fluid bg-success text-white text-center pt-5 pb-5">
 			<div class="container">
 				<h1 class="display-3">Magazyn olejów</h1>
 			</div>
