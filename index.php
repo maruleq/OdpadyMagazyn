@@ -27,10 +27,14 @@
 
 //	Treść powitania na stronie głównej
 	echo '<div class="m-auto text-center">
-			<h4>Witaj w aplikacji gospodarki odpadami</h4>
+			<h4>Witaj w demonstracyjnej aplikacji<br>Magazynu Gospodarki Odpadami</h4>
+			<br>Magazyn wyświetla stan oleju przepracowanego zgromadzonego w zbiornikach,
+			<br>ilość odpadów przygotowanych do utylizacji w spalarni
+			<br>oraz ilość zgromadzonej wody zabrudzonej przeznaczonej do oczyszczenia.
+			<br><br>
 			<br>Jeśli chcesz sprawdzić stan magazynowy odpadów<br>wybierz z menu odpowiedni magazyn.<br>
 			<br>Jeśli chcesz zaktualizować stan magazynowy<br>zaloguj się w menu i wybierz odpowiedni magazyn.<br><br>
-			<br><b>Jeśli chcesz zalogować się do panelu administracyjnego wpisz:</b>
+			<br><b>Aby się zalogować wpisz:</b>
 			<br>Login: tr
 			<br>Hasło: Test
 			</div>';
