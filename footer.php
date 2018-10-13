@@ -2,7 +2,7 @@
 
 /**
 	************************************************************************
-	**	Strona stopki aplikacji magazynowej. Projekt wykonany w Bootsrap 4
+	**	Strona stopki aplikacji magazynowej. Bootsrap 4
 	************************************************************************
 	**
 	**	Stopka ładuje się przy każdorazowym wyświetlaniu strony magazynu

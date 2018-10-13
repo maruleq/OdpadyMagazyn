@@ -2,7 +2,7 @@
 
 /**
 	************************************************************************
-	**	Strona nagłówka aplikacji magazynowej. Projekt wykonany w Bootsrap 4
+	**	Strona nagłówka aplikacji magazynowej. Bootsrap 4
 	************************************************************************
 	**
 	**	1. Załadowanie menu

@@ -2,7 +2,7 @@
 
 /**
 	**********************************************************************
-	**	Strona główna aplikacji magazynowej. Projekt wykonany w Bootsrap 4
+	**	Strona główna aplikacji magazynowej. Bootsrap 4
 	**********************************************************************
 	**
 	**	1. Uruchomienie sesji
@@ -37,6 +37,6 @@
 			<br><b>Aby się zalogować wpisz:</b>
 			<br>Login: tr
 			<br>Hasło: Test
-			</div>';
+		 </div>';
 
 	Include ('footer.php');

@@ -2,7 +2,7 @@
 
 /**
 	************************************************************************
-	**	Sekcja HEAD aplikacji magazynowej. Projekt wykonany w Bootsrap 4
+	**	Sekcja HEAD aplikacji magazynowej. Bootsrap 4
 	************************************************************************
 	**
 	**	Sekcja HEAD jest wspólna dla każdej strony aplikacji magazynowej.
